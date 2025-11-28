@@ -1,5 +1,5 @@
 <div align="start">
-  <img src="Sec.png" alt="CVE Hunter" width="250" height="300"/>
+  <img src="style/Sec.png" alt="CVE Hunter" width="250" height="300"/>
 </div>
 
 Secra is a cutting-edge tool designed to identify and report security vulnerabilities. 
@@ -16,21 +16,13 @@ to help secure your infrastructure against potential threats.
 
 1. Clone the repository:
 ```
-git clone https://github.com/N3ullex/Vulnex.git
-
-                                                                          
+git clone https://github.com/N3ullex/Vulnex.git                                                                        
 cd Vulnex
 
 pip install -r requirements.txt
-
-[If you encounter an error use:]
-
-`python -m pip install -r requiments.txt --break-system-packages`
+python secra.py
 
 ```
-
-
-
 
 ```
 Available CPEs found:
