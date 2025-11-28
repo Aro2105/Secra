@@ -16,21 +16,13 @@ to help secure your infrastructure against potential threats.
 
 1. Clone the repository:
 ```
-git clone https://github.com/N3ullex/Vulnex.git
-
-                                                                          
+git clone https://github.com/N3ullex/Vulnex.git                                                                        
 cd Vulnex
 
 pip install -r requirements.txt
-
-[If you encounter an error use:]
-
-`python -m pip install -r requiments.txt --break-system-packages`
+python secra.py
 
 ```
-
-
-
 
 ```
 Available CPEs found:
