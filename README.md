@@ -1,5 +1,5 @@
 <div align="start">
-  <img src="Sec.png" alt="CVE Hunter" width="250" height="300"/>
+  <img src="style/Sec.png" alt="CVE Hunter" width="250" height="300"/>
 </div>
 
 Secra is a cutting-edge tool designed to identify and report security vulnerabilities. 
