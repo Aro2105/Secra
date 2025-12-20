@@ -2,6 +2,11 @@
   <img src="style/Sec.png" alt="CVE Hunter" width="250" height="300"/>
 </div>
 
+[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg?logo=python)](https://www.python.org/downloads/release/python-3130/)
+[![Python 3.6](https://img.shields.io/badge/python-3.6+-yellow.svg?logo=python)](https://www.python.org/downloads/release/python-360/)
+[![GitHub](https://img.shields.io/github/license/i1zco/Secra?color=green&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.txt)
+
+
 Secra is a cutting-edge tool designed to identify and report security vulnerabilities. 
 By analyzing software versions or scanning operating systems through IP addresses, Secra provides detailed insights 
 to help secure your infrastructure against potential threats.
